@@ -4,4 +4,8 @@ This project demonstrates the ability to build an ETL pipeline using Python, Pan
 
 Structure
 
+Resources Folder: Contains the Output folder
+
+Output: Contains the necessary CSV files for creating the new CSV files as well as the new CSV files created.
+
 
